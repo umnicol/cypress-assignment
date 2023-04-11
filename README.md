@@ -10,7 +10,7 @@ You can also write the test for you own Wash world implementation.
 
 The test should go through the full flow from location selection to starting a wash.
 
-The test(s) should cover and assert these areas:
+The test(s) should cover and assert/validate these areas:
 
 1. For each page transition, validate the correct title is present.
 2. For each of the selectable pages, validate the amount of buttons.
